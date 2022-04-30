@@ -106,17 +106,17 @@ footer {
     background-color: #25a2c3;
     color: #dee1e3;
 }
-footer a {
-    color:#dee1e3;
-}
-footer li {
-    list-style: none;
-}
 #contatti {
     padding-bottom: 1.5em;
 }
 #contatti h2{
     padding-bottom: 1.2em;
+}
+footer li {
+    list-style: none;
+}
+footer a {
+    color:#dee1e3;
 }
 i {
     color: white;
