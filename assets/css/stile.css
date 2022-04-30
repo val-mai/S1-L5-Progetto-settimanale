@@ -55,14 +55,13 @@ button {
     background-color: #f04c2f;
     padding: 1.2em 2.5em;
     border: none;
-    border-radius:5px
-}
-#intro a {
+    border-radius:5px;
     font-family: 'Montserrat',sans-serif;
     font-weight: 700;
     color: white;
     text-decoration: none;
     text-transform: uppercase;
+    cursor: pointer;
 }
 #section2 {
     padding: 3em 2.5em;
