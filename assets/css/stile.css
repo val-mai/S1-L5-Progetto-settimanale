@@ -69,6 +69,7 @@ button {
 #section2 img {
     border-radius: 50%;
     padding-bottom: 3em;
+    width: 75vw;
 }
 #orange {
     padding: 3em 2.5em;
